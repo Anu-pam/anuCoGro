@@ -1,0 +1,10 @@
+
+/storage
+/vendor
+.env
+/.idea
+/.vscode
+/tests
+/public/dist/services
+composer.lock
+/node_modules

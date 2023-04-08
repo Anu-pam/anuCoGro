@@ -1,0 +1,10 @@
+---------------------------------------  Alter Table in services_category (24-march-22)     -----------------------------------------------
+
+
+ALTER TABLE `services_category` ADD `slug` VARCHAR(255) NULL DEFAULT NULL AFTER `name`;
+
+------- Created table tbl_images (24-march-2022) ----------------------------------------------------------------------
+
+---------------------------------------  Alter Table in roles (11-Apr-22)     -----------------------------------------------
+
+INSERT INTO `roles` (`id`, `name`, `guard_name`, `created_at`, `updated_at`) VALUES ('4', 'professionalist', 'web', NULL, NULL);

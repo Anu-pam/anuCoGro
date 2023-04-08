@@ -1,0 +1,96 @@
+/* Podkova ------------------------*/
+@font-face {
+  font-family: 'Podkova';
+  src: url('../fonts/podkova-regular.eot');
+  src: url('../fonts/podkova-regular.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/podkova-regular.woff2') format('woff2'),
+       url('../fonts/podkova-regular.woff') format('woff'),
+       url('../fonts/podkova-regular.ttf') format('truetype'),
+       url('../fonts/podkova-regular.svg#podkova-regular') format('svg');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Podkova';
+  src: url('../fonts/podkova-medium.eot');
+  src: url('../fonts/podkova-medium.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/podkova-medium.woff2') format('woff2'),
+       url('../fonts/podkova-medium.woff') format('woff'),
+       url('../fonts/podkova-medium.ttf') format('truetype'),
+       url('../fonts/podkova-medium.svg#podkova-medium') format('svg');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Podkova';
+  src: url('../fonts/podkova-semibold.eot');
+  src: url('../fonts/podkova-semibold.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/podkova-semibold.woff2') format('woff2'),
+       url('../fonts/podkova-semibold.woff') format('woff'),
+       url('../fonts/podkova-semibold.ttf') format('truetype'),
+       url('../fonts/podkova-semibold.svg#podkova-semibold') format('svg');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Podkova';
+  src: url('../fonts/podkova-bold.eot');
+  src: url('../fonts/podkova-bold.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/podkova-bold.woff2') format('woff2'),
+       url('../fonts/podkova-bold.woff') format('woff'),
+       url('../fonts/podkova-bold.ttf') format('truetype'),
+       url('../fonts/podkova-bold.svg#podkova-bold') format('svg');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Podkova';
+  src: url('../fonts/podkova-extrabold.eot');
+  src: url('../fonts/podkova-extrabold.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/podkova-extrabold.woff2') format('woff2'),
+       url('../fonts/podkova-extrabold.woff') format('woff'),
+       url('../fonts/podkova-extrabold.ttf') format('truetype'),
+       url('../fonts/podkova-extrabold.svg#podkova-extrabold') format('svg');
+  font-weight: 800;
+  font-style: normal;
+}
+/* Helvetica Neue ------------------------*/
+/* @font-face {
+  font-family: 'Helvetica Neue';
+  src: url('../fonts/helveticaneue.eot');
+  src: url('../fonts/helveticaneue.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/helveticaneue.woff2') format('woff2'),
+       url('../fonts/helveticaneue.woff') format('woff'),
+       url('../fonts/helveticaneue.ttf') format('truetype'),
+       url('../fonts/helveticaneue.svg#helveticaneue') format('svg');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Helvetica Neue';
+  src: url('../fonts/helveticaneue-medium.eot');
+  src: url('../fonts/helveticaneue-medium.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/helveticaneue-medium.woff2') format('woff2'),
+       url('../fonts/helveticaneue-medium.woff') format('woff'),
+       url('../fonts/helveticaneue-medium.ttf') format('truetype'),
+       url('../fonts/helveticaneue-medium.svg#helveticaneue-medium') format('svg');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Helvetica Neue';
+  src: url('../fonts/helveticaneue-bold.eot');
+  src: url('../fonts/helveticaneue-bold.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/helveticaneue-bold.woff2') format('woff2'),
+       url('../fonts/helveticaneue-bold.woff') format('woff'),
+       url('../fonts/helveticaneue-bold.ttf') format('truetype'),
+       url('../fonts/helveticaneue-bold.svg#helveticaneue-bold') format('svg');
+  font-weight: 700;
+  font-style: normal;
+} */
